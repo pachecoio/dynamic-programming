@@ -1,4 +1,4 @@
-from testing.can_sum import can_sum
+from dynamic_programming.can_sum import can_sum
 
 
 def test_can_sum():

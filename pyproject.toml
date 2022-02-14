@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "testing"
+name = "dynamic_programming"
 version = "0.1.0"
 description = ""
 authors = ["Thiago Pacheco <thiagodelimapacheco@gmail.com>"]

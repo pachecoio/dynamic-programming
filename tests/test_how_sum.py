@@ -1,4 +1,4 @@
-from testing.how_sum import how_sum
+from dynamic_programming.how_sum import how_sum
 
 
 def test_how_sum():

@@ -1,4 +1,4 @@
-from testing.best_sum import best_sum, best_sum_memoized
+from dynamic_programming.best_sum import best_sum, best_sum_memoized
 
 
 def test_best_sum():

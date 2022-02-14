@@ -1,3 +1,12 @@
+"""
+Given a list of values (values), find the smaller combination
+that when summed returns the target value (n)
+
+E.g.
+    best_sum(7, [2, 3, 4]) -> [3, 4]
+"""
+
+
 def best_sum(n: int, values: [int]) -> [int]:
     """
     Brute force implementation:

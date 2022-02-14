@@ -1,4 +1,4 @@
-from testing.grid_traveler import get_step_count
+from dynamic_programming.grid_traveler import get_step_count
 
 
 def test_grid_traveler_result():

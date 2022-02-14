@@ -1,4 +1,4 @@
-from testing.can_construct import can_construct
+from dynamic_programming.can_construct import can_construct
 
 
 def test_can_construct():

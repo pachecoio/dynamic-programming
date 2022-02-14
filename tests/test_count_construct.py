@@ -1,4 +1,4 @@
-from testing.count_construct import count_construct
+from dynamic_programming.count_construct import count_construct
 
 
 def test_count_construct():
